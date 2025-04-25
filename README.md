@@ -10,7 +10,7 @@ Age, sex, chest pain type,Resting blood pressure, cholesterol levels,Fasting blo
 
 📂 Project Structure
 
-Heart_Disease_Inspection/ – Contains the Flask app and Python backend app.py. Main Flask application file DY-Model.pkl , Pickle file containing the trained machine learning model, templates/ – HTML templates rendered by Flask in which two html filesis there index.html – Landing page with the form to collect user input & result.html – Page displaying the heart disease prediction result and static/css/- css desings rendering by python
+Heart_Disease_Inspection/ – Contains the Flask app and Python backend app.py. Main Flask application file DT-Model.pkl , Pickle file containing the trained machine learning model, templates/ – HTML templates rendered by Flask in which two html filesis there index.html – Landing page with the form to collect user input & result.html – Page displaying the heart disease prediction result and static/css/- css desings rendering by python
 
 📊 About the Model
 
