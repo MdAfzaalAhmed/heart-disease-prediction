@@ -18,6 +18,7 @@ model.pkl – Pickle file containing the trained machine learning model
 templates/ – HTML templates rendered by Flask
 index.html – Landing page with the form to collect user input
 result.html – Page displaying the heart disease prediction result
+static/css/- css desings rendering by python
 
 📊 About the Model
 
@@ -34,7 +35,7 @@ Simple and responsive design
 
 Flask: Web framework for building the app
 Scikit-learn: For machine learning model training and evaluation
-HTML/CSS: For the frontend design (if custom styling is added)
+HTML/CSS: For the frontend
 Pickle: For model serialization
 
 📁 Additional Notes:
